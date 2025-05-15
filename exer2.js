@@ -23,4 +23,4 @@ console.log("A 2 pessoa é", mensagens2);
 //4
 let variavel = 6;
 let varialvel = variavel % 2==0? "par" : "impar";
-console.log(varialvel);
+console.log(varialvel); 
