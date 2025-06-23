@@ -31,3 +31,8 @@ for (let i = 1; i <= numAlunos; i++) {
 
 let mediaTurma = somaMedias / numAlunos;
 console.log(`Média geral da turma: ${mediaTurma.toFixed(2)}`);
+
+
+
+
+
